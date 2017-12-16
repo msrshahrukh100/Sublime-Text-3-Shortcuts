@@ -48,7 +48,7 @@ ___________________
 | Alt + ⇧ + 2   | Command + Options + 2  | Split view into two columns |
 
 
-### To view all the keyboard shortcuts available on Sublime Text 3 [go to this link](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
+#### To view all the keyboard shortcuts available on Sublime Text 3 [go to this link](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
 
 
 
