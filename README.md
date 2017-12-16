@@ -12,7 +12,6 @@ ___________________
 | Ctrl + ⇧ + ↓	| Command + ⇧ + ↓	|   Move current line down |
 | Ctrl + L  	| Command + L 		|   Select current line, repeat to select next lines |
 | Ctrl + D	 	| Command + D 		| 	Select word, repeat to select others occurrences |
-| Ctrl + M 		| Command + M 		|   Jump to closing parentheses, repeat to jump to opening parentheses |
 | Ctrl + ⇧ + K	| Ctrl + ⇧ + K	|   Delete the current line|
 | Ctrl + KK		| Command + KK		|   Delete from cursor to end of line	 |
 | Ctrl + K + ⌫	| Command + K + ⌫ 	|   Delete from cursor to start of line  |
