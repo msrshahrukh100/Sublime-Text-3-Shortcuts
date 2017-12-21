@@ -8,8 +8,8 @@ ___________________
 | Ctrl + X      | Command + X 		| Cut the current line |
 | Ctrl + ↩      | Command + ↩       |  Insert line after the current line |
 | Ctrl + ⇧ + ↩	| Command + ⇧ + ↩   |   Insert line before the current line  |
-| Ctrl + ⇧ + ↑  | Command + ⇧ + ↑	|   Move current line up |
-| Ctrl + ⇧ + ↓	| Command + ⇧ + ↓	|   Move current line down |
+| Ctrl + ⇧ + ↑  | Command + Ctrl + ↑	|   Move current line up |
+| Ctrl + ⇧ + ↓	| Command + Ctrl + ↓	|   Move current line down |
 | Ctrl + L  	| Command + L 		|   Select current line, repeat to select next lines |
 | Ctrl + D	 	| Command + D 		| 	Select word, repeat to select others occurrences |
 | Ctrl + ⇧ + K	| Ctrl + ⇧ + K	|   Delete the current line|
